@@ -37,7 +37,7 @@ public class Prob5 {
 					}System.out.println("더  높게");
 				}
 			}
-			System.out.println("다시하시겠습니까(y/n)");
+			System.out.println("다시하시겠습니까(y/n)>>");
 			String answer = scanner.next();
 			if( answer.equals("n") ){
 				break;
